@@ -91,7 +91,7 @@
 - Lideres nunca dizem "esse não é o meu trabalho"
 - Como promover a atitude de dono
   1. Dirigir a pessoas como donos, "Donos de ações" e não "Acionistas"
-  2. Unidades de Ações Restritas ASU para os funcionarios
+  2. Unidades de Ações Restritas (RSU) para os funcionarios
   3. Todos ganham a copia dos principios de liderança da Amazon
   4. Pagamos para sair da empresa, aumentando cada vez mais por ano, para que quem fique na empresa, realmente queira ficar, o titulo é "por favor, recuse essa oferta"
   5. Não aceite unanimidade para tudo, deixe que façam
